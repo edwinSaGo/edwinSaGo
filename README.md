@@ -1,6 +1,6 @@
 ## Hi, I'm Edwin Salazar 👋
 
-<!--
+
  **Python Backend Developer | Remote-Ready | SQL & APIs | Oracle Integration Cloud**
 I'm a passionate developer focused on backend development with Python. I have experience building RESTful APIs, integrating enterprise systems using Oracle Integration Cloud, and managing relational databases with SQL.
 
@@ -25,4 +25,4 @@ I'm a passionate developer focused on backend development with Python. I have ex
 ## Let's connect!
 [LinkedIn](https://www.linkedin.com/in/edwin-salazar-579490321/)
 
--->
+
