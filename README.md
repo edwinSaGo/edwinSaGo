@@ -13,7 +13,7 @@ I'm a passionate developer focused on backend development with Python. I have ex
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python, FastAPI, Django, JAVA
+**Backend:** Python, FastAPI, Django, Java
 **Databases:** PostgreSQL, Oracle SQL, MySQL
 **APIs:** REST, SOAP  
 **DevOps:** Git, Docker  
