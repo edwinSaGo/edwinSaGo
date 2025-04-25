@@ -9,7 +9,7 @@ I'm a passionate developer focused on backend development with Python. I have ex
 - 🧠 Always learning: Clean architecture, testing, automation, and scalable microservices
 - 💬 Ask me about **Python**, **APIs**, **SQL**, or **Oracle Integration Cloud**
 - 📫 Reach me at: [233edwin377@gmail.com](mailto:233edwin377@gmail.com) or Whatsapp 57+3173020116
-- 🌍 Looking for **remote opportunities** – open to freelance and full-time roles
+- 🌍 Looking for **remote or on-site opportunities** – open to freelance and full-time roles
 
 ## 🛠️ Tech Stack
 
